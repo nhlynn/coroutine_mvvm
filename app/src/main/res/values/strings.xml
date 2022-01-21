@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">coroutine_mvvm</string>
+    <string name="no_data">No Data</string>
+    <string name="post_detail">Post Detail</string>
+</resources>
